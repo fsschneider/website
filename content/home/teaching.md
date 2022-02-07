@@ -14,39 +14,28 @@ title: 'Teaching'
 subtitle:
 
 # Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: January 2006
 
 # Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
+  title: Software Practicals - Bundesliga Prediction
+  organization: "University of Tübingen"
+  date_start: "2019-04-15"
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  description: "Supervised software practicals where students should create an app that can predict the results of Bundesliga matches using historical data and machine learning algorithms."
+- certificate_url:
+  title: Probabilistic Inference and Learning
+  organization: "University of Tübingen"
+  date_start: "2018-10-15"
+  date_end: "2019-02-13"
+  description: "Lecture course by Prof. Dr. Philipp Hennig on probabilistic machine learning covering topics such as probability theory, graphical models, Gaussian Processes and Sampling Methods."
+- certificate_url:
+  title: Programming Course for MATLAB and C++
+  organization: "University of Tübingen"
+  date_start: "2017-03-01"
+  date_end: "2017-03-10"
+  description: "Block course introduction the basics of programming in both MATLAB and C++."
 
 design:
   columns: '2' 
