@@ -20,40 +20,23 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: f.schneider@uni-tuebingen.de
+phone: +49 7071 29 70857
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Maria-von-Linden-Str. 6
+  city: Tübingen
+  postcode: '72076'
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '48.539027'
+  longitude: '9.055722'
+directions: Enter the AI Research Building and take the stairs to the second floor. Take the left wing and turn right after the kitche to <b>office 20-28/A24</b>.
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Twitter
+    link: 'https://twitter.com/frankstefansch1'
 
 # Site header
 
@@ -141,9 +124,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: '2'
   api_key: ''
-  zoom: 15
+  zoom: 14
 marketing:
   google_analytics: ''
   google_tag_manager: ''
