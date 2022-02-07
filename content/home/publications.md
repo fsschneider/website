@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -32,10 +32,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: compact
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
