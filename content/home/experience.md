@@ -22,13 +22,24 @@ date_format: January 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Researcher
+    company: University of Tübingen
+    company_url: 'https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/'
+    company_logo: 'UT_Tree_red'
+    location: Tübingen
+    date_start: '2022-01-01'
+    date_end: ''
+    description: |2-
+        Working on making deep learning more user-friendly by focusing on the training algorithms.
+
+        <b>Advisor: Prof. Dr. Philipp Hennig</b>
   - title: Ph.D.
     company: University of Tübingen
     company_url: 'https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/'
     company_logo: 'UT_Tree_red'
     location: Tübingen
     date_start: '2017-09-01'
-    date_end: ''
+    date_end: '2022-07-29'
     description: |2-
         Doctoral student in computer science.
 
