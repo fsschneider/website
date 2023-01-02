@@ -15,6 +15,8 @@ design:
   </br>*Come join us Friday, December 2, 2022 in New Orleans to talk about which methods truly speed up neural network training!*
 - **July 2022:** I succesfully defended my Ph.D. thesis with the title [**Understanding Deep Learning Optimization via Benchmarking and Debugging**](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/131710)!
   </br>*I will continue to work as a postdoctoral researcher at the University of Tübingen.*
+- **April 2022:** I gave an invited talk at the [ML Evaluation Standards Workshop](https://ml-eval.github.io/) at [ICLR 2022](https://iclr.cc/Conferences/2022).
+  </br> *During the talk and the panel discussion, we examined the role of reproducibility and rigor in machine learning.*
 - **September 2021:** Our paper "**Cockpit: A Practical Debugging Tool for the Training of Deep Neural Networks**" has been accepted at [NeurIPS 2021](https://nips.cc/Conferences/2021/).
   </br>*In this work, we present a new kind of debugger, specifically designed for training deep nets.*
 - **May 2021:** Our work "**Descending through a Crowded Valley - Benchmarking Deep Learning Optimziers**" has been accepted at [ICML 2021](https://icml.cc/Conferences/2021).
