@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: f.schneider@uni-tuebingen.de
-phone: +49 7071 29 70857
+phone: +49 7071 29 70852
 address:
   street: Maria-von-Linden-Str. 6
   city: Tübingen
@@ -31,7 +31,7 @@ address:
 coordinates:
   latitude: '48.539027'
   longitude: '9.055722'
-directions: Enter the AI Research Building and take the stairs to the second floor. Take the left wing and turn right after the kitche to <b>office 20-28/A24</b>.
+directions: Enter the AI Research Building and take the stairs to the second floor. Take the right wing and turn right after the glass meeting room to <b>office 20-5/A10</b>.
 contact_links:
   - icon: twitter
     icon_pack: fab
