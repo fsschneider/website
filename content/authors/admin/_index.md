@@ -70,9 +70,9 @@ social:
   link: https://www.linkedin.com/in/frankstefanschneider
 
 # Link to a PDF of your resume/CV.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
