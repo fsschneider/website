@@ -37,11 +37,11 @@ education:
     logo: "institution_logos/UT_Tree_red.png"
   - course: M.Sc. in Industrial and Applied Mathematics
     institution: TU/e Eindhoven
-    year: 2015 - 2016
+    year: 2015 - 2017
     logo: "institution_logos/TUe_Icon.png"
   - course: M.Sc. in Simulation Technology
     institution: University of Stuttgart
-    year: 2015 - 2016
+    year: 2015 - 2017
     logo: "institution_logos/Uni_Stutt_Icon.png"
   - course: B.Sc. in Simulation Technology
     institution: University of Stuttgart
